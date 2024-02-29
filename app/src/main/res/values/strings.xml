@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello_world_italian">Hello World Italian</string>
+    <string name="hello_world_french">Hello World French</string>
+    <string name="hello_world_spanish">Hello World Spanish</string>
+    <string name="hello_world_latin">Hello World Latin</string>
+</resources>
